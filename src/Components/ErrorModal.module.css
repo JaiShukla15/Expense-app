@@ -1,0 +1,17 @@
+.error_modal_wrapper{
+    width:100%;
+    margin-top:20px;
+    min-height: 150px;
+    border:2px solid black;
+    border-radius: 12px;
+    background: #ffffff;
+    font-size: 1.5em;
+    padding:2%;
+}
+.add_btn{
+    float: right;
+    right: 138px;
+    margin-right:40px !important;
+    top: 90px !important;
+    position: absolute;
+}
